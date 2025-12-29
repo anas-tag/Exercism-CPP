@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anast\Exercism\cpp\vehicle-purchase\build\CMakeFiles\b6908d2c79e97d67db746a0e1e99c06c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{038992AF-4877-3DC1-91ED-65E878161EF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/anast/Exercism/cpp/vehicle-purchase/build/CMakeFiles/vehicle-purchase.dir
+C:/Users/anast/Exercism/cpp/vehicle-purchase/build/CMakeFiles/test_vehicle-purchase.dir
+C:/Users/anast/Exercism/cpp/vehicle-purchase/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anast/Exercism/cpp/vehicle-purchase/build/CMakeFiles/ZERO_CHECK.dir

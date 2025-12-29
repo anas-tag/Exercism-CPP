@@ -1,0 +1,4 @@
+C:/Users/anast/Exercism/cpp/last-will/build/CMakeFiles/last-will.dir
+C:/Users/anast/Exercism/cpp/last-will/build/CMakeFiles/test_last-will.dir
+C:/Users/anast/Exercism/cpp/last-will/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anast/Exercism/cpp/last-will/build/CMakeFiles/ZERO_CHECK.dir

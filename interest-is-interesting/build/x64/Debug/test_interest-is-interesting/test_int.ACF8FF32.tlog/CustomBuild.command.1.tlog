@@ -1,0 +1,20 @@
+^C:\USERS\ANAST\EXERCISM\CPP\INTEREST-IS-INTERESTING\BUILD\CMAKEFILES\80D879BECA420CF25A5B09F315D4295F\TEST_INTEREST-IS-INTERESTING.RULE
+setlocal
+Debug\interest-is-interesting.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANAST\EXERCISM\CPP\INTEREST-IS-INTERESTING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anast/Exercism/cpp/interest-is-interesting -BC:/Users/anast/Exercism/cpp/interest-is-interesting/build --check-stamp-file C:/Users/anast/Exercism/cpp/interest-is-interesting/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

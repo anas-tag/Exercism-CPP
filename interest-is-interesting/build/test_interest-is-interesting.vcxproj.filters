@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anast\Exercism\cpp\interest-is-interesting\build\CMakeFiles\80d879beca420cf25a5b09f315d4295f\test_interest-is-interesting.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\anast\Exercism\cpp\interest-is-interesting\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\anast\Exercism\cpp\interest-is-interesting\build\CMakeFiles\test_interest-is-interesting" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77198FFA-9B04-396A-8977-DDB19073D186}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

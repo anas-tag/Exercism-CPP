@@ -1,0 +1,10 @@
+^C:\USERS\ANAST\EXERCISM\CPP\FREELANCER-RATES\BUILD\CMAKEFILES\60898A56225C2A1064185BC47A5F4842\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anast/Exercism/cpp/freelancer-rates -BC:/Users/anast/Exercism/cpp/freelancer-rates/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/anast/Exercism/cpp/freelancer-rates/build/freelancer-rates.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

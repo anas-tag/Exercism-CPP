@@ -1,0 +1,20 @@
+^C:\USERS\ANAST\EXERCISM\CPP\LASAGNA\BUILD\CMAKEFILES\C238255BF3C520552A42E1B05C7BF4D3\TEST_LASAGNA.RULE
+setlocal
+Debug\lasagna.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANAST\EXERCISM\CPP\LASAGNA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anast/Exercism/cpp/lasagna -BC:/Users/anast/Exercism/cpp/lasagna/build --check-stamp-file C:/Users/anast/Exercism/cpp/lasagna/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

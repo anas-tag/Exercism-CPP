@@ -1,0 +1,4 @@
+C:/Users/anast/Exercism/cpp/pacman-rules/build/CMakeFiles/pacman-rules.dir
+C:/Users/anast/Exercism/cpp/pacman-rules/build/CMakeFiles/test_pacman-rules.dir
+C:/Users/anast/Exercism/cpp/pacman-rules/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anast/Exercism/cpp/pacman-rules/build/CMakeFiles/ZERO_CHECK.dir

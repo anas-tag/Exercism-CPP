@@ -1,0 +1,4 @@
+C:/Users/anast/Exercism/cpp/making-the-grade/build/CMakeFiles/making-the-grade.dir
+C:/Users/anast/Exercism/cpp/making-the-grade/build/CMakeFiles/test_making-the-grade.dir
+C:/Users/anast/Exercism/cpp/making-the-grade/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anast/Exercism/cpp/making-the-grade/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+C:/Users/anast/Exercism/cpp/interest-is-interesting/build/CMakeFiles/interest-is-interesting.dir
+C:/Users/anast/Exercism/cpp/interest-is-interesting/build/CMakeFiles/test_interest-is-interesting.dir
+C:/Users/anast/Exercism/cpp/interest-is-interesting/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anast/Exercism/cpp/interest-is-interesting/build/CMakeFiles/ZERO_CHECK.dir
