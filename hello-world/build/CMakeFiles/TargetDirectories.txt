@@ -1,4 +1,0 @@
-C:/Users/anast/Exercism/cpp/hello-world/build/CMakeFiles/hello-world.dir
-C:/Users/anast/Exercism/cpp/hello-world/build/CMakeFiles/test_hello-world.dir
-C:/Users/anast/Exercism/cpp/hello-world/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/anast/Exercism/cpp/hello-world/build/CMakeFiles/ZERO_CHECK.dir

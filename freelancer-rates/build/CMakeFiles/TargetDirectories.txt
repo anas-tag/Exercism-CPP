@@ -1,4 +1,0 @@
-C:/Users/anast/Exercism/cpp/freelancer-rates/build/CMakeFiles/freelancer-rates.dir
-C:/Users/anast/Exercism/cpp/freelancer-rates/build/CMakeFiles/test_freelancer-rates.dir
-C:/Users/anast/Exercism/cpp/freelancer-rates/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/anast/Exercism/cpp/freelancer-rates/build/CMakeFiles/ZERO_CHECK.dir
